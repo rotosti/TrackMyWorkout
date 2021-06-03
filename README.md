@@ -5,7 +5,7 @@ A simple workout tracking app using MongoDB and Express.
 Tomasz Siemion
 
 ## Links
-Deploy:
+Deploy: https://fitnesstrackerwoot.herokuapp.com/
 Github: https://github.com/rotosti/TrackMyWorkout
 
 ## Description
